@@ -22,6 +22,10 @@ A real-time communication project that delivers instant notifications using Node
 
 3. Multiple Clients Demo: Demonstrates that notifications are broadcast to all connected clients in real-time.
 
+
+# ⚠️ Note: 
+To run this project successfully, ensure that MinGW (Minimalist GNU for Windows) is installed on your system. Without it, socket programming may fail and result in runtime errors.
+
 # Tech Stack
 
 Node.js – Backend server
